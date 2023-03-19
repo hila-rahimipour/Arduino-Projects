@@ -16,3 +16,8 @@ laser photoresistor-
   
 unknown resistor-
   One known resistor is connected and another unknown resistor. The program finds the value of the unknown resistor
+  
+  
+ohmMeterRelay-
+  The program calculates the resistance of an unknown resistor. It displays the resistance value on a LCD screen. 
+  Once the resistance is in the correct range, a relay will be activated in order to make an electromagnet work and the LCD screen will show "Open the door!"
