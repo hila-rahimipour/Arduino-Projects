@@ -21,3 +21,9 @@ unknown resistor-
 ohmMeterRelay-
   The program calculates the resistance of an unknown resistor. It displays the resistance value on a LCD screen. 
   Once the resistance is in the correct range, a relay will be activated in order to make an electromagnet work and the LCD screen will show "Open the door!"
+
+
+laserColor-
+  The program calculates the value of 2 photoresistors to find laser light. Once the 2 photoresistors sense the laser light, a code will be displayed on a LCD screen, 
+  a red light will light up and a RGB sensor will start working. Once the RGB color recieve the correct color, the LCD screen will display "Congradulations!" and music
+  will be played
